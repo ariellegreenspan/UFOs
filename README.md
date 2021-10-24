@@ -20,4 +20,4 @@
   
   
 ## Summary:
-  One drawback of the new design is...One recomendation for further development of the website is...Another recommendation for further development of the website would be to..
+  One drawback of the new design is that it is hard to tell the range of data is within the UFOS table. For example, how many different dates there are in the table or how many different shapes. One recomendation for further development of the website would be to have a filter with a checkbox list of all options, so one could tell what options there are for dates, cities, states, countries, and shapes to filter by.That way one would not have to enter in dates or cities randomly. Another recommendation for further development of the website would be to add more buttons for filtering and resetting so it isthe website is more user-friendly. It is confusing that to reset the website, one has to scroll all the way to UFo headers and click it at the top of the page, when the filter section is iin the middle of the page. The reset button should be in the same section as the filter section. 
